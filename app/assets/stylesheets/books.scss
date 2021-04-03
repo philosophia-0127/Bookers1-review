@@ -1,0 +1,20 @@
+// Place all the styles related to the books controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+a:hover {
+  background-color: black;
+  color: white;
+}
+
+.errors {
+  color: red;
+}
+
+.success {
+  color: green;
+}
+
+td {
+  padding: 7px 10px;
+}
